@@ -14,6 +14,10 @@ How the documents are organized for review can make a big difference in the effi
 ## Dataset
 The CNN and Daily Mail Dataset contains the documents and accompanying questions from the news articles. There are approximately 287k documents and 1260k questions collectively in this dataset.
 
+https://github.com/abisee/cnn-dailymail
+
+https://github.com/huggingface/datasets/tree/master/datasets/cnn_dailymail
+
 ## Objectives and Milestones
 
 1. We will try to achieve maximum output by applying multiple techniques in our analysis as time permits.
